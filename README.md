@@ -7,13 +7,13 @@ This is a simple web service implemented in Python using Flask. It allows users 
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/malware-url-lookup.git
-    ```
+   https://github.com/kamiunix/cisco-exercise-nov22.git
+   ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd malware-url-lookup
+    cd cisco-exercise-nov22
     ```
 
 3. Create a virtual environment named `venv`:
